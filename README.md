@@ -1,6 +1,6 @@
 
 
-🌸 IRIS-AI 🤖
+🌸 IRIS-AI 
 Simple, Human-Like AI Assistant Built with Python
 
 💬 Talk. Learn. Experiment.  
