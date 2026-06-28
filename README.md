@@ -36,4 +36,4 @@ This is my **first GitHub project**, created as part of my journey into
 python main.py
 
 ```bash
-python main,py
+python main.py
