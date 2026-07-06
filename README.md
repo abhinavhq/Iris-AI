@@ -36,4 +36,12 @@ python main.py
 
 ```bash
 python main.py
+1️⃣ Clone the repository  
+2️⃣ Open the project folder  
+3️⃣ Run the assistant:
+```bash
+python main.py
+
+```bash
+python main.py
 
