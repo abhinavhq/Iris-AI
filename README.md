@@ -31,9 +31,9 @@ This is my **first GitHub project**, created as part of my journey into
 1️⃣ Clone the repository  
 2️⃣ Open the project folder  
 3️⃣ Run the assistant:
-
 ```bash
 python main.py
 
 ```bash
 python main.py
+
