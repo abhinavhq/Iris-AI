@@ -4,7 +4,7 @@
 Simple, Human-Like AI Assistant Built with Python
 
 💬 Talk. Learn. Experiment.  
-A local terminal-based conversational AI made for learning and fun.
+A local terminal-based conversational AI made for learning and fun
 
 🌟 About the Project
 
