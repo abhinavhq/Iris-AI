@@ -34,7 +34,7 @@ This is my **first GitHub project**, created as part of my journey into
 ```bash
 python main.py
 
-```bash
+``bash
 python main.py
 1️⃣ Clone the repository  
 2️⃣ Open the project folder  
