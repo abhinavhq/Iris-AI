@@ -23,7 +23,8 @@ This is my **first GitHub project**, created as part of my journey into
 
  🛠️ Tech Stack
 
-🧠 **Python**  
+🧠 **Python**
+
 💻 Local execution (no deployment yet)
 
 🚀 How to run
